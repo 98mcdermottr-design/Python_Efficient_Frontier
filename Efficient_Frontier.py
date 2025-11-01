@@ -129,7 +129,7 @@ fig = px.scatter(
     x='Volatility',
     y='Return',
     color='Sharpe Ratio',
-    color_continuous_scale='green',
+    color_continuous_scale='plasma',
     hover_data=tickers,
     title='Interactive Efficient Frontier'
 )
