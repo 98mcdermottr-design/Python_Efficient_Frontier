@@ -25,6 +25,18 @@ Adjust the diversification penalty on line 53 of the attached code. Set right no
 
 ---
 
+## 📈 Outcome
+Given interactive efficient frontier with the stocks available in your portfolio.
+
+From here you can decide on your optimal weights depending on your level of desired risk.
+
+---
+
+## 📑 Source
+CFA Curriculum - Level 2
+
+---
+
 ## ⚙️ Requirements
 Install dependencies:
 ```bash
