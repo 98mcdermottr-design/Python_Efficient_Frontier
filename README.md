@@ -5,7 +5,7 @@ This project simulates and visualizes efficient portfolios using historical stoc
 ---
 
 ## 🧩 Features
-- Fetches stock price data from Yahoo Finance.
+- Fetches stock price data from Yahoo Finance. *Note:* Important to use time period in line with the current market environment.
 - Simulates thousands of random portfolios using Monte Carlo methods.
 - Computes annualized return, volatility, and a *penalized* Sharpe ratio.
 - Identifies:
